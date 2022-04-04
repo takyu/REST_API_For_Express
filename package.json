@@ -1,0 +1,19 @@
+{
+  "name": "REST_API_For_Express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "takyu",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon dist/app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.23",
+    "nodemon": "^2.0.15"
+  }
+}
